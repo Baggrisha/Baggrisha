@@ -63,9 +63,10 @@ I build Python tools around automation, APIs, local AI, speech processing, and p
 
 ## Coding activity
 
-[![WakaTime](https://img.shields.io/badge/WakaTime-tracking%20coding%20time-00A9E0?style=flat-square&logo=wakatime&logoColor=white)](https://wakatime.com/)
+[![WakaTime](https://img.shields.io/badge/WakaTime-coding%20activity-00A9E0?style=flat-square&logo=wakatime&logoColor=white)](https://wakatime.com/)
 
-> Connect a WakaTime API key to show detailed coding statistics here.
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## Contribution snake
 

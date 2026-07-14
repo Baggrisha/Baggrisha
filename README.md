@@ -22,6 +22,16 @@ I build Python tools around automation, APIs, local AI, speech processing, and p
 
 </div>
 
+## Contact
+
+- 📧 [baggrischa@icloud.com](mailto:baggrischa@icloud.com)
+- 💻 [github.com/Baggrisha](https://github.com/Baggrisha)
+
+## Currently building
+
+- 🤖 [AI-Assistance](https://github.com/Baggrisha/AI-Assistance) — local voice AI assistant for macOS.
+- ⚙️ Telegram automation and backend tools powered by Python and LLMs.
+
 ## GitHub stats
 
 <div align="center">
@@ -39,14 +49,6 @@ I build Python tools around automation, APIs, local AI, speech processing, and p
       <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Baggrisha&theme=tokyonight&utcOffset=3" alt="Productive time" />
     </td>
   </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Baggrisha&theme=tokyonight" alt="Repositories per language" />
-    </td>
-    <td width="50%" align="center">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Baggrisha&theme=tokyonight" alt="Most used languages by commits" />
-    </td>
-  </tr>
 </table>
 
 ## Streak & Activity
@@ -60,3 +62,15 @@ I build Python tools around automation, APIs, local AI, speech processing, and p
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Baggrisha&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
 
 </div>
+
+## Coding activity
+
+[![WakaTime](https://img.shields.io/badge/WakaTime-tracking%20coding%20time-00A9E0?style=flat-square&logo=wakatime&logoColor=white)](https://wakatime.com/)
+
+> Connect a WakaTime API key to show detailed coding statistics here.
+
+## Contribution snake
+
+![Snake animation](https://raw.githubusercontent.com/Baggrisha/Baggrisha/output/github-contribution-grid-snake-dark.svg)
+
+[![Profile automation](https://github.com/Baggrisha/Baggrisha/actions/workflows/snake.yml/badge.svg)](https://github.com/Baggrisha/Baggrisha/actions/workflows/snake.yml)

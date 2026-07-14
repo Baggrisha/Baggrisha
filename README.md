@@ -31,11 +31,6 @@ I build Python tools around automation, APIs, local AI, speech processing, and p
 - 🟦 [VK](https://vk.com/baggrisha)
 - 💻 [github.com/Baggrisha](https://github.com/Baggrisha)
 
-## Currently building
-
-- 🤖 [AI-Assistance](https://github.com/Baggrisha/AI-Assistance) — local voice AI assistant for macOS.
-- ⚙️ Telegram automation and backend tools powered by Python and LLMs.
-
 ## GitHub stats
 
 <div align="center">

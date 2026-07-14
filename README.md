@@ -61,22 +61,6 @@ I build Python tools around automation, APIs, local AI, speech processing, and p
 
 </div>
 
-## Coding activity
-
-[![WakaTime](https://img.shields.io/badge/WakaTime-coding%20activity-00A9E0?style=flat-square&logo=wakatime&logoColor=white)](https://wakatime.com/)
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 06 July 2026 - To: 13 July 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
 ## Contribution snake
 
 ![Snake animation](https://raw.githubusercontent.com/Baggrisha/Baggrisha/output/github-contribution-grid-snake-dark.svg)

@@ -29,8 +29,6 @@ I build Python tools around automation, APIs, local AI, speech processing, and p
 - ✈️ [Telegram](https://t.me/baggrisha)
 - 📢 [Telegram channel](https://t.me/baggrishaaaa)
 - 🔷 [VK](https://vk.com/baggrisha)
-- 🐙 [GitHub](https://github.com/Baggrisha)
-- 🦊 [GitLab](https://gitlab.com/baggrisha)
 
 ## GitHub stats
 
